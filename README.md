@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [ReCapProject.](https://github.com/mertcancetinok/ReCapProject)
+- 🔭 I’m currently working on [recap-angular.](https://github.com/mertcancetinok/recap-angular)
 
 - 🌱 I’m currently learning **C#,Javascript**
 
