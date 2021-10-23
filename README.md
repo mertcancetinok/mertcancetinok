@@ -1,7 +1,4 @@
-<h1 align="center">Hi there👋, I'm Mert</h1>
-<h3 align="center">I share my projects as a student</h3>
-
-
+<h3 align="center">Hi there👋, I'm Mert</h3>
 
 
 - 🔭 I’m currently working on [nothing.]()
